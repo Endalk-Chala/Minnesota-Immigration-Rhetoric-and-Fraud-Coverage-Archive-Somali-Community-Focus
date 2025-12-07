@@ -61,112 +61,17 @@ docs/
  ├── analysis/                    # Thematic analyses, commentary, and visualizations
  ├── visuals/                     # Infographics and media-framing charts
  └── contributors.md
-4. Key Analytical and Research Topics
+
+
+## 4. Key Analytical and Research Topics
 
 This archive curates documentation and analysis on the following:
 
-Evolution of Somali immigration rhetoric in Minnesota news and political discourse (2022 – Present)
-
-Media framing and bias in coverage of Somali-related fraud cases
-
-Policy communication around TPS and resettlement programs
-
-The intersection of immigration narratives, accountability, and trust
-
-Representation of Somali community organizations and civic leadership
-
-Online discourse on social-media platforms and its amplification through digital media
-
-Comparative analysis of local vs. national coverage
-5. Public Contribution
-
-Contributions are welcome from community members, journalists, and researchers:
-
-Adding new news reports, official statements, or community responses
-
-Correcting metadata or updating links
-
-Providing summaries, thematic tags, or visual analyses
-
-Translating or annotating relevant coverage
-
-If you’re new to GitHub, use Issues to suggest additions or corrections.
-6. License & Citation
-
-This repository operates under a dual-license model:
-
-Original content (timeline curation, metadata, analysis): Licensed under CC BY-SA 4.0
-
-Quoted materials (news reports, videos, government docs): Copyright remains with the original authors; archived here under fair use for educational and documentary purposes.
-
-Citation Example
-
-Source: Minnesota Immigration Rhetoric and Fraud Coverage Archive (Somali Community Focus)
-URL: https://github.com/Endalk-Chala/Minnesota-Immigration-Rhetoric-and-Fraud-Coverage-Archive-Somali-Community-Focus
-
-License: CC BY-SA 4.0
-7. Disclaimer
-
-This repository includes only publicly verifiable information.
-
-No unverified rumors or personal data are included.
-
-The goal is documentation and transparency, not accusation or speculation.
-
-All entries reflect how narratives appeared in publicly accessible sources.
-8. How to Submit an Issue or Pull Request
-Submitting an Issue
-
-Go to Issues → New Issue.
-
-Provide:
-
-Description of new or corrected information
-
-Source URL (s)
-
-Suggested section (Immigration Rhetoric or Fraud Coverage)
-
-Submit for review.
-
-Use Issues for:
-
-Adding new media links or documents
-
-Reporting broken links or duplicates
-
-Suggesting improvements or metadata updates
-
-Submitting a Pull Request
-
-Fork this repository and create a branch.
-
-Make edits (add news, analyses, metadata, etc.).
-
-Submit a Pull Request with:
-
-Summary of changes
-
-Modified files
-
-Source links or rationale
-
-Maintainers will review and merge if appropriate.
-
-9. Technical Resources
-Scripts (future additions)
-
-/scripts/scraper/ – Automated scraper for collecting new articles
-
-/scripts/archive_links.py – Automatically saves source links to the Internet Archive (Wayback Machine)
-
-/scripts/requirements.txt – Required Python libraries
-pip install -r scripts/requirements.txt
-🗂️ Maintainer
-
-Endalkachew H. Chala
-Maintainer & Curator
-🕓 Timeframe: 2022 – Present
-🎯 Focus: Somali community media representation in Minnesota
-
+- **Evolution of Somali immigration rhetoric** in Minnesota news and political discourse (2022–Present)  
+- **Media framing and bias** in coverage of Somali-related fraud cases  
+- **Policy communication** around TPS and resettlement programs  
+- The intersection of **immigration narratives, accountability, and trust**  
+- Representation of **Somali community organizations and civic leadership**  
+- **Online discourse** on social-media platforms and its amplification through digital media  
+- Comparative analysis of **local vs. national coverage**
 
