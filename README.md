@@ -15,7 +15,7 @@
 7. [Disclaimer](#7-disclaimer)  
 8. [How to Submit an Issue or Pull Request](#8-how-to-submit-an-issue-or-pull-request)  
 9. [Technical Resources](#9-technical-resources)  
-10. [Comprehensive Overview](#-comprehensive-overview)  
+10. [Comprehensive Overview](#10-comprehensive-overview)  
 11. [Data Overview](docs/data-overview.md)
 
 ---
@@ -69,84 +69,24 @@ docs/
 ## 4. Key Analytical and Research Topics
 
 This archive curates documentation and analysis on the following:
-- Evolution of **Somali immigration rhetoric** in Minnesota news and political discourse (2022–Present)  
+
+- **Evolution of Somali immigration rhetoric** in Minnesota news and political discourse (2022–Present)  
 - **Media framing and bias** in coverage of Somali-related fraud cases  
 - **Policy communication** around TPS and resettlement programs  
 - The intersection of **immigration narratives, accountability, and trust**  
 - Representation of **Somali community organizations and civic leadership**  
 - **Online discourse** on social media platforms and its amplification through digital media  
-- Comparative analysis of **local vs. national** coverage  
+- Comparative analysis of **local vs. national coverage**
 
 ---
 
 ## 5. Public Contribution
 
-Contributions are welcome from community members, journalists, and researchers:  
+Contributions are welcome from **community members**, **journalists**, and **researchers**:
+
 - Adding new news reports, official statements, or community responses  
 - Correcting metadata or updating links  
 - Providing summaries, thematic tags, or visual analyses  
 - Translating or annotating relevant coverage  
 
-If you’re new to GitHub, use **Issues** to suggest additions or corrections.  
-
----
-
-## 6. License & Citation
-
-This repository operates under a **dual-license model**:  
-
-- **Original content** (timeline curation, metadata, analysis): Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)  
-- **Quoted materials** (news reports, videos, government docs): Copyright remains with the original authors; archived here under fair use for educational and documentary purposes.  
-
-**Citation Example:**
-
-> Source: *Minnesota Immigration Rhetoric and Fraud Coverage Archive (Somali Community Focus)*  
-> URL: [https://github.com/yourusername/mn-immigration-fraud-archive](https://github.com/yourusername/mn-immigration-fraud-archive)  
-> License: CC BY-SA 4.0  
-
----
-
-## 7. Disclaimer
-
-This repository includes only **publicly verifiable information**.  
-- No unverified rumors or personal data will be included.  
-- The goal is **documentation and transparency**, not accusation or speculation.  
-- All entries aim to reflect how narratives appeared in public sources.  
-
----
-
-## 8. How to Submit an Issue or Pull Request
-
-### Submitting an Issue
-1. Go to the repository main page.  
-2. Click **Issues → New Issue**.  
-3. Provide:  
-   - Description of new or corrected information  
-   - Source URL(s)  
-   - Suggested section (Immigration Rhetoric or Fraud Coverage)  
-4. Submit for review.  
-
-**Issues are suitable for:**  
-- Adding new media links or documents  
-- Reporting broken links or duplicates  
-- Suggesting improvements or metadata updates  
-
-### Submitting a Pull Request
-1. **Fork** this repository and create a branch.  
-2. Make edits (add news, analyses, metadata, etc.).  
-3. **Submit a Pull Request** with:  
-   - Summary of changes  
-   - Modified files  
-   - Source links or rationale  
-4. Maintainers will review and merge if appropriate.  
-
----
-
-## 9. Technical Resources
-
-### Scripts (for future automation)
-- `/scripts/scraper/` – Automated scraper for collecting new articles.  
-- `/scripts/archive_links.py` – Saves source links to the Internet Archive (Wayback Machine).  
-- `/scripts/requirements.txt` – Required Python libraries.
-
-**Dependencies**
+If you’re new to GitHub, use **Issues** to suggest additions or corrections.
