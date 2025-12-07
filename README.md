@@ -14,7 +14,7 @@
 6. [License & Citation](#6-license--citation)  
 7. [Disclaimer](#7-disclaimer)  
 8. [How to Submit an Issue or Pull Request](#8-how-to-submit-an-issue-or-pull-request)  
-9. [Technical Resources](#9-technical-resources)  
+9. [Technical Resources](#9-technical-resources)
 
 ---
 
