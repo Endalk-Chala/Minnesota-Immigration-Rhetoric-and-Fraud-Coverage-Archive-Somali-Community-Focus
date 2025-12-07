@@ -62,8 +62,7 @@ docs/
  ├── visuals/                     # Infographics and media-framing charts
  └── contributors.md
 
-
-## 4. Key Analytical and Research Topics
+**## 4. Key Analytical and Research Topics**
 
 This archive curates documentation and analysis on the following:
 
@@ -74,4 +73,3 @@ This archive curates documentation and analysis on the following:
 - Representation of **Somali community organizations and civic leadership**  
 - **Online discourse** on social-media platforms and its amplification through digital media  
 - Comparative analysis of **local vs. national coverage**
-
