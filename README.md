@@ -1,6 +1,6 @@
 # Minnesota Immigration Rhetoric and Fraud Coverage Archive (Somali Community Focus)
 
-*A documentary-style public archive of Somali immigration rhetoric and fraud coverage in Minnesota (2022 – Present).*
+*A documentary-style public archive of Somali immigration rhetoric and fraud coverage in Minnesota (2022–Present).*
 
 ---
 
@@ -20,10 +20,10 @@
 
 ## 1. Purpose
 
-- To collect, organize, and preserve publicly available information related to **media coverage of Somali immigration rhetoric and fraud narratives in Minnesota (2022 – Present)**.  
+- To collect, organize, and preserve publicly available information related to **media coverage of Somali immigration rhetoric and fraud narratives in Minnesota (2022–Present)**.  
 - To document how public discourse evolves across **news outlets, political groups, government authorities, and community organizations**.  
 - To establish a **verifiable timeline** of how Somali communities are represented in local and national media.  
-- To consolidate coverage from sources such as **Star Tribune, MPR News, Sahan Journal, AP, Reuters, Fox 9, YouTube, Threads, Twitter / X, and TikTok**.  
+- To consolidate coverage from sources such as **Star Tribune, MPR News, Sahan Journal, AP, Reuters, Fox 9, YouTube, Threads, Twitter/X, and TikTok**.  
 - To provide a centralized, evidence-based archive for **journalists, researchers, policymakers, and community advocates**.  
 - To preserve statements and analyses by **community organizations, advocacy groups, and Minnesota officials** regarding the **Temporary Protected Status (TPS)** controversy and related fraud narratives.  
 
@@ -33,13 +33,13 @@
 
 Since 2022, Minnesota has seen renewed national attention around Somali and East African communities — from **immigration policy debates** (such as TPS and refugee programs) to **high-profile fraud and accountability stories** (such as the *Feeding Our Future* case).  
 
-This repository serves as a **documentary and analytical archive**, chronicling how these issues have been represented in the public sphere and how rhetoric around **immigration, integrity, and accountability** intersects in news coverage, politics, and community responses.  
+This repository serves as a **documentary archive**, chronicling how these issues have been represented in the public sphere and how rhetoric around **immigration, integrity, and accountability** intersects in news coverage, politics, and community responses.  
 
 ---
 
 ## 3. Repository Structure
 
-All main content is located in the `/data/` and `/docs/` directories:
+All main content is located in the `/data/` directory.
 
 ```text
 data/
@@ -56,20 +56,20 @@ data/
  │    └── metadata.csv
  │
  └── combined_timeline.csv
-
-docs/
- ├── analysis/                    # Thematic analyses, commentary, and visualizations
- ├── visuals/                     # Infographics and media-framing charts
- └── contributors.md
-
-**## 4. Key Analytical and Research Topics**
-
+---
+## 4. Key Analytical and Research Topics
 This archive curates documentation and analysis on the following:
 
-- **Evolution of Somali immigration rhetoric** in Minnesota news and political discourse (2022–Present)  
-- **Media framing and bias** in coverage of Somali-related fraud cases  
-- **Policy communication** around TPS and resettlement programs  
-- The intersection of **immigration narratives, accountability, and trust**  
-- Representation of **Somali community organizations and civic leadership**  
-- **Online discourse** on social-media platforms and its amplification through digital media  
-- Comparative analysis of **local vs. national coverage**
+Evolution of Somali immigration rhetoric in Minnesota news and political discourse (2022–Present)
+
+Media framing and bias in coverage of Somali-related fraud cases
+
+Policy communication around TPS and resettlement programs
+
+The intersection of immigration narratives, accountability, and trust
+
+Representation of Somali community organizations and civic leadership
+
+Online discourse on social media platforms and its amplification through digital media
+
+Comparative analysis of local vs. national coverage
